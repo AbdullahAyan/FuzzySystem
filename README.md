@@ -1,2 +1,2 @@
 # FuzzySystem
- I made a fuzyy system for school project
+ I made a fuzyy system for school project with Swift.
